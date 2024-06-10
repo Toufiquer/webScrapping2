@@ -122,6 +122,5 @@ const runApp = async () => {
     getAndSavePdf()
     console.log('Please wait...')
     rl.close()
-    console.log('Successfully saved your pdf.')
 }
 runApp()
